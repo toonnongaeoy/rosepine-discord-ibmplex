@@ -13,9 +13,15 @@
 
 ## Usage
 
-1. Install a client mod, such as [BetterDiscord](https://betterdiscord.app)
-2. Download rose-pine.theme.css
-3. Go into settings, Themes, and drop the `rose-pine.theme.css` file into the folder.
+- Install a client mod,
+    such as 
+    
+    [BetterDiscord](https://betterdiscord.app)
+        
+    - Download [varient].[font].css (Like rose-pine-moon.ibmplex.css) You can find it on directory. But for the Rose Pine Dawn, You can download any varient that you want since it doesn't matter.
+    - Go into settings, Themes, and drop the `[varient].[font].css ` file into the folder.
+
+    [Vencord]() / [Vesktop]()
 4. To switch between Rosé Pine and Rosé Pine Dawn, go to the Appearance tab in settings and change the theme from Dark to Light.
 
 ## Gallery
